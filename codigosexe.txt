@@ -1,0 +1,13 @@
+git init - Inicializar o Git, para subir as informações
+git add . - Adiciona todos os arquivos da pasta para commitar
+git commit -m "v1 cltversion" - Commita a "descrição" do arquivo
+git branch -M main - Cria a branch 
+git remote add origin https://github.com/GuiMarobo/cltversion.git - Adiciona o link do repositório onde as informações serão adicionadas 
+git push -u origin main - Envia (push) todos os arquivos, documentos, e alterações para o github na Branch selecionada.
+
+
+git remote add origin https://github.com/GuiMarobo/cltversion.git - Adiciona o link do repositório onde as informações serão adicionadas
+git add . - Adiciona os arquivos da pasta
+git commit -m "v2 cltversion" - Coloca a descrição
+git branch -M main - Entra na branch criada
+git push -u origin main - Envia as alterações no repositório existente
