@@ -7,5 +7,7 @@ git push -u origin main - Envia (push) todos os arquivos, documentos, e alteraç
 
 
 git remote add origin https://github.com/GuiMarobo/cltversion.git - Adiciona o link do repositório onde as informações serão adicionadas
+git add . - Adiciona os arquivos da pasta
+git commit -m "v2 cltversion" - Coloca a descrição
 git branch -M main - Entra na branch criada
 git push -u origin main - Envia as alterações no repositório existente

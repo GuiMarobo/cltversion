@@ -1,0 +1,7 @@
+Estruturas de Branch, e seus Modelos de Trabalho - 
+main - Branch principal, sem erros.
+develop - Branch de desenvolvimento
+feature - Branch de desenvolvimento de novas funcionalidades
+bugfix - Branch para corrigir bugs na branch develop
+hotfix - Branch para corrigir problemas crônicos 
+release - Branch para organizar uma nova versão que será lançada
